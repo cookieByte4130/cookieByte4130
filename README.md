@@ -22,49 +22,49 @@ Lawful good
 1430
 
 ## Personality Traits
-Cautious
-Focused
-Honest
-Relentless
+ * Cautious
+ * Focused
+ * Honest
+ * Relentless
 
 ## Ideals
-"The path to power and self-improvement is through knowledge"
-"There’s a spark of good in everyone"
+ * "The path to power and self-improvement is through knowledge"
+ * "There’s a spark of good in everyone"
 
 ## Other Proficiencies & Languages
-HTML
-CSS
-JS
-React
-Redux
-Typescript
+ * HTML
+ * CSS
+ * JS
+ * React
+ * Redux
+ * Typescript
 
-Webpack
-Vite
-Node
-Express
-NextJS
-Axios
+* Webpack
+* Vite
+* Node
+* Express
+* NextJS
+* Axios
 
 
-SQL
-NoSQL
-PostgreSQL
-SQLite3
-MySQL
-MongoDB
-Mongoose
+* SQL
+* NoSQL
+* PostgreSQL
+* SQLite3
+* MySQL
+* MongoDB
+* Mongoose
 
 ### Testing & Deployment
-Jest
-Mocha/Chai
-Vercel
-AWS
-NGINX
-Docker
+* Jest
+* Mocha/Chai
+* Vercel
+* AWS
+* NGINX
+* Docker
 
 ### Libraries
-Bootstrap
-JQuery
-Chakra
-Material-UI
+* Bootstrap
+* JQuery
+* Chakra
+* Material-UI
